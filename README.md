@@ -1,1 +1,3 @@
-# BurnsDiffGeoTopDynamicalSolutions
+This repository contains solutions to Keith Burns' Differential Geometry and Topology: With a View to Dynamical Systems 2005 printing. Answers are written in Latex using the subfile package to construct the full file. This is not intended to be a complete solution set. These solutions are not provided with any guaranty of accuracy, clarity, or simplicity. Please report errors as issues.
+
+The goal is to linearly increase the percent of solutions per chapter from 30% to 40% rounded up. The assigned problems should be randomly chosen as follows. Problems should be divided evenly among subsections with extras backfilled, and in each subsection, problems should be distributed in a scaled beta distribution with values (4.5,2.5).
